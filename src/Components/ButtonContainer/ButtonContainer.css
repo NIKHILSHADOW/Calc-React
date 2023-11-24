@@ -1,0 +1,11 @@
+button {
+    width: 31%;
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 3px;
+}
+
+button:hover{
+    background-color: blue;
+    color: white;
+}

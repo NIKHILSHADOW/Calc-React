@@ -1,0 +1,29 @@
+.body{
+  background-image: linear-gradient(120deg, skyblue, papayawhip);
+}
+
+
+.box {
+  background-image: linear-gradient(120deg, white, white);
+  margin: 50px auto auto auto;
+  width: 300px;
+  height: 400px;
+  border: 40px solid grey;
+  color: papayawhip;
+}
+
+#title {
+  color: red;
+  text-align: center;
+  margin: 20px;
+  border: 5px blue;
+}
+
+#search-box {
+  margin: 40px 5px;
+  width: 90%;
+  height: 10%;
+  font-size: 20px;
+  color: black;
+  background-color: lightgray;
+}
